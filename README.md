@@ -1,2 +1,3 @@
-# Data_ANALYST
+# Data_Analyst
+
 This is my first repository.
